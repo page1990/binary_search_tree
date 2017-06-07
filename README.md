@@ -116,3 +116,5 @@ class Node(object):
                 yield node.data
                 node = node.right
 ```
+
+参考文献:http://www.laurentluce.com/posts/binary-search-tree-library-in-python/comment-page-1/
